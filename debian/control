@@ -1,0 +1,12 @@
+Source: ros-hydro-cob-substitute
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/cob_substitute
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cob-substitute
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cob-lbr
+Description: cob_substitute
