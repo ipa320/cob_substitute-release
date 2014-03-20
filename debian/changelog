@@ -1,0 +1,11 @@
+ros-hydro-cob-lbr (0.5.1-0precise) precise; urgency=high
+
+  * remove pr2_controller_msgs
+  * Initial catkin version. Have to find away to fix the rosjava_jni dependency.
+  * added service_interface.py
+  * cob_substitute stack for internal packages. mostly used for testing
+  * Contributors: abubeck, ipa-fmw, ipa-fxm
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 19 Mar 2014 23:00:00 -0000
+
+
