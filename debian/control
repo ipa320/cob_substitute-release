@@ -1,0 +1,12 @@
+Source: ros-hydro-prace-gripper-description
+Section: misc
+Priority: extra
+Maintainer: Alexander Bubeck <aub@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/prace_gripper_description
+Standards-Version: 3.9.2
+
+Package: ros-hydro-prace-gripper-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: prace_gripper_description
