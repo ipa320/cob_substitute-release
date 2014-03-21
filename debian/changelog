@@ -1,0 +1,8 @@
+ros-hydro-cob-substitute (0.5.1-1quantal) quantal; urgency=high
+
+  * Initial catkin version. Have to find away to fix the rosjava_jni dependency.
+  * Contributors: abubeck
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 19 Mar 2014 23:00:00 -0000
+
+
