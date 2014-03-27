@@ -1,0 +1,12 @@
+Source: ros-hydro-frida-description
+Section: misc
+Priority: extra
+Maintainer: Alexander Bubeck <aub@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/frida_description
+Standards-Version: 3.9.2
+
+Package: ros-hydro-frida-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: frida_description
