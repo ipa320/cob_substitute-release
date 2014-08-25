@@ -1,0 +1,12 @@
+Source: ros-indigo-cob-substitute
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <fmw@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/cob_substitute
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cob-substitute
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cob-lbr
+Description: cob_substitute
