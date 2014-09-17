@@ -1,0 +1,23 @@
+ros-indigo-cob-safety-controller (0.6.0-0trusty) trusty; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Tue, 16 Sep 2014 22:00:00 -0000
+
+ros-indigo-cob-safety-controller (0.5.2-0trusty) trusty; urgency=high
+
+  * increade version number
+  * update changelog
+  * install tags
+  * substitute for cob_safety_controller
+  * Contributors: Florian Weisshardt, ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+ros-indigo-cob-safety-controller (0.5.1-0trusty) trusty; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Wed, 26 Mar 2014 23:00:00 -0000
+
+
