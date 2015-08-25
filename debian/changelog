@@ -1,0 +1,39 @@
+ros-indigo-cob-safety-controller (0.6.2-0saucy) saucy; urgency=high
+
+  * migration to package format 2
+  * remove trailing whitespaces
+  * cleanup
+  * Contributors: ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Mon, 24 Aug 2015 22:00:00 -0000
+
+ros-indigo-cob-safety-controller (0.6.1-0saucy) saucy; urgency=high
+
+  * beautify CMakeLists
+  * Contributors: ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Tue, 16 Jun 2015 22:00:00 -0000
+
+ros-indigo-cob-safety-controller (0.6.0-0saucy) saucy; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Tue, 16 Sep 2014 22:00:00 -0000
+
+ros-indigo-cob-safety-controller (0.5.2-0saucy) saucy; urgency=high
+
+  * increade version number
+  * update changelog
+  * install tags
+  * substitute for cob_safety_controller
+  * Contributors: Florian Weisshardt, ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+ros-indigo-cob-safety-controller (0.5.1-0saucy) saucy; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Wed, 26 Mar 2014 23:00:00 -0000
+
+
