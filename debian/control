@@ -1,0 +1,12 @@
+Source: ros-indigo-prace-gripper-driver
+Section: misc
+Priority: extra
+Maintainer: Alexander Bubeck <aub@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/prace_gripper_driver
+Standards-Version: 3.9.2
+
+Package: ros-indigo-prace-gripper-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: prace_gripper_driver
