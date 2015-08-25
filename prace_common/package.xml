@@ -1,6 +1,6 @@
-<package>
+<package format="2">
   <name>prace_common</name>
-  <version>0.6.1</version>
+  <version>0.6.2</version>
   <description>prace_common substitude package</description>
   <maintainer email="bnm@ipa.fhg.de">Benjamin Maidel</maintainer>
 
@@ -13,7 +13,4 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <export>
-
-  </export>
 </package>
