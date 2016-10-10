@@ -11,6 +11,9 @@ Changelog for package cob_substitute
 * new substitue package rplidar_ros
 * Contributors: ipa-fxm
 
+0.6.5 (2016-10-10)
+------------------
+
 0.6.4 (2016-04-25)
 ------------------
 * remove rplidar_ros

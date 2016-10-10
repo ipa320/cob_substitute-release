@@ -12,6 +12,9 @@ Changelog for package prace_gripper_driver
 * cleanup
 * Contributors: ipa-fxm
 
+0.6.5 (2016-10-10)
+------------------
+
 0.6.4 (2016-04-25)
 ------------------
 * 0.6.3
