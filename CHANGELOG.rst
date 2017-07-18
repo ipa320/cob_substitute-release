@@ -2,14 +2,9 @@
 Changelog for package cob_safety_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.6.3 (2016-04-01)
+0.6.6 (2017-07-18)
 ------------------
-
-0.6.2 (2015-08-25)
-------------------
-* migration to package format 2
-* remove trailing whitespaces
-* cleanup
+* manually fix changelog
 * Contributors: ipa-fxm
 
 0.6.5 (2016-10-10)
@@ -17,10 +12,12 @@ Changelog for package cob_safety_controller
 
 0.6.4 (2016-04-25)
 ------------------
-* 0.6.3
-* update changelog
-* 0.6.2
-* update changelog
+
+0.6.3 (2016-04-01)
+------------------
+
+0.6.2 (2015-08-25)
+------------------
 * migration to package format 2
 * remove trailing whitespaces
 * cleanup
