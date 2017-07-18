@@ -1,0 +1,13 @@
+Source: ros-kinetic-cob-reflector-referencing
+Section: misc
+Priority: extra
+Maintainer: Florian Weisshardt <florian.weisshardt@ipa.fraunhofer.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-cob-reflector-referencing
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: This package provides a node broadcasting a tf frame based on reflector markers detected within sensor_msgs::LaserScan messages.
+ It can be used to position/reference a robot wrt to the reflektor markers.
