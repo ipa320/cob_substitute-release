@@ -1,0 +1,64 @@
+ros-kinetic-cob-safety-controller (0.6.6-0jessie) jessie; urgency=high
+
+  * manually fix changelog
+  * Contributors: ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Mon, 17 Jul 2017 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.6.5-0jessie) jessie; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Sun, 09 Oct 2016 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.6.4-0jessie) jessie; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Sun, 24 Apr 2016 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.6.3-0jessie) jessie; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.6.2-0jessie) jessie; urgency=high
+
+  * migration to package format 2
+  * remove trailing whitespaces
+  * cleanup
+  * Contributors: ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Mon, 24 Aug 2015 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.6.1-0jessie) jessie; urgency=high
+
+  * beautify CMakeLists
+  * Contributors: ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Tue, 16 Jun 2015 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.6.0-0jessie) jessie; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Tue, 16 Sep 2014 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.5.2-0jessie) jessie; urgency=high
+
+  * increade version number
+  * update changelog
+  * install tags
+  * substitute for cob_safety_controller
+  * Contributors: Florian Weisshardt, ipa-fxm
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+ros-kinetic-cob-safety-controller (0.5.1-0jessie) jessie; urgency=high
+
+
+
+ -- Matthias Luedtke <mdl@ipa.fhg.de>  Wed, 26 Mar 2014 23:00:00 -0000
+
+
