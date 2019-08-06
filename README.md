@@ -1,3 +1,30 @@
+## cob_substitute (kinetic) - 0.6.8-1
+
+The packages in the `cob_substitute` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_substitute --rosdistro kinetic` on `Tue, 06 Aug 2019 09:03:03 -0000`
+
+These packages were released:
+- `cob_docker_control`
+- `cob_reflector_referencing`
+- `cob_safety_controller`
+- `cob_substitute`
+
+Version of package(s) in repository `cob_substitute`:
+
+- upstream repository: https://github.com/ipa320/cob_substitute.git
+- release repository: https://github.com/ipa320/cob_substitute-release.git
+- rosdistro version: `0.6.7-0`
+- old version: `0.6.7-0`
+- new version: `0.6.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## cob_substitute (kinetic) - 0.6.7-0
 
 The packages in the `cob_substitute` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_substitute --track kinetic --rosdistro kinetic` on `Sun, 07 Jan 2018 13:45:21 -0000`
