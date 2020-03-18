@@ -1,0 +1,12 @@
+Source: ros-melodic-cob-docker-control
+Section: misc
+Priority: optional
+Maintainer: Jannik Abbenseth <jba@ipa.fraunhofer.de>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-cob-docker-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Autonomous docking
