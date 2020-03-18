@@ -1,0 +1,96 @@
+ros-melodic-cob-substitute (0.6.9-1stretch) stretch; urgency=high
+
+
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Tue, 17 Mar 2020 23:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.8-1stretch) stretch; urgency=high
+
+
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Mon, 05 Aug 2019 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.7-1stretch) stretch; urgency=high
+
+  * Merge pull request #50 <https://github.com/ipa320/cob_substitute/issues/50> from ipa320/indigo_release_candidate
+    Indigo release candidate
+  * Merge pull request #48 <https://github.com/ipa320/cob_substitute/issues/48> from ipa-fxm/update_maintainer
+    update maintainer
+  * update maintainer
+  * Merge pull request #45 <https://github.com/ipa320/cob_substitute/issues/45> from ipa-fxm/APACHE_license
+    use license apache 2.0
+  * use license apache 2.0
+  * Contributors: Felix Messmer, ipa-fxm, ipa-uhr-mk
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Sat, 06 Jan 2018 23:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.6-1stretch) stretch; urgency=high
+
+  * remove obsolete packages due to unsupported robots
+  * manually fix changelog
+  * Contributors: ipa-fxm
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Mon, 17 Jul 2017 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.5-1stretch) stretch; urgency=high
+
+
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Sun, 09 Oct 2016 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.4-1stretch) stretch; urgency=high
+
+  * remove rplidar_ros
+  * Contributors: ipa-mig
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Sun, 24 Apr 2016 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.3-1stretch) stretch; urgency=high
+
+
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.2-1stretch) stretch; urgency=high
+
+  * migration to package format 2
+  * new substitue package rplidar_ros
+  * Contributors: ipa-fxm
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Mon, 24 Aug 2015 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.1-1stretch) stretch; urgency=high
+
+  * Merge pull request #24 <https://github.com/ipa320/cob_substitute/issues/24> from ipa320/indigo_release_candidate
+    Indigo release candidate
+  * Merge pull request #23 <https://github.com/ipa320/cob_substitute/issues/23> from ipa-nhg/indigo_dev
+    missed run_depends
+  * missed run_depends
+  * Merge pull request #22 <https://github.com/ipa320/cob_substitute/issues/22> from ipa320/hydro_dev
+    fiy typo
+  * Update package.xml
+  * Contributors: Florian Weisshardt, ipa-nhg
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Tue, 16 Jun 2015 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.6.0-1stretch) stretch; urgency=high
+
+
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Tue, 16 Sep 2014 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.5.2-1stretch) stretch; urgency=high
+
+  * New maintainer
+  * Contributors: ipa-nhg
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+ros-melodic-cob-substitute (0.5.1-1stretch) stretch; urgency=high
+
+  * Initial catkin version. Have to find away to fix the rosjava_jni dependency.
+  * Contributors: abubeck
+
+ -- Jannik Abbenseth <jba@ipa.fraunhofer.de>  Wed, 19 Mar 2014 23:00:00 -0000
+
+
