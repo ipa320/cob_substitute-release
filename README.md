@@ -1,3 +1,30 @@
+## cob_substitute (melodic) - 0.6.10-1
+
+The packages in the `cob_substitute` repository were released into the `melodic` distro by running `/usr/bin/bloom-release cob_substitute --rosdistro melodic` on `Sat, 17 Oct 2020 15:01:04 -0000`
+
+These packages were released:
+- `cob_docker_control`
+- `cob_reflector_referencing`
+- `cob_safety_controller`
+- `cob_substitute`
+
+Version of package(s) in repository `cob_substitute`:
+
+- upstream repository: https://github.com/ipa320/cob_substitute.git
+- release repository: https://github.com/ipa320/cob_substitute-release.git
+- rosdistro version: `0.6.9-1`
+- old version: `0.6.9-1`
+- new version: `0.6.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## cob_substitute (kinetic) - 0.6.10-1
 
 The packages in the `cob_substitute` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_substitute --rosdistro kinetic` on `Sat, 17 Oct 2020 14:53:23 -0000`
