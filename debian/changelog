@@ -1,0 +1,88 @@
+ros-noetic-ipa-differential-docking (0.6.11-1focal) focal; urgency=high
+
+  * Merge pull request #57 <https://github.com/ipa320/cob_substitute/issues/57> from fmessmer/substitute/ipa_differential_docking
+    substitute for ipa_differential_docking
+  * substitute for ipa_differential_docking
+  * Contributors: Felix Messmer, fmessmer
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Wed, 22 Dec 2021 23:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.10-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Fri, 16 Oct 2020 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.9-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Tue, 17 Mar 2020 23:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.8-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Mon, 05 Aug 2019 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.7-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Sat, 06 Jan 2018 23:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.6-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Mon, 17 Jul 2017 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.5-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Sun, 09 Oct 2016 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.4-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Sun, 24 Apr 2016 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.3-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Thu, 31 Mar 2016 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.2-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Mon, 24 Aug 2015 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.1-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Tue, 16 Jun 2015 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.6.0-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Tue, 16 Sep 2014 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.5.2-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Sun, 24 Aug 2014 22:00:00 -0000
+
+ros-noetic-ipa-differential-docking (0.5.1-1focal) focal; urgency=high
+
+
+
+ -- Felix Messmer <felixmessmer@googlemail.com>  Wed, 26 Mar 2014 23:00:00 -0000
+
+
